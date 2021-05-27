@@ -211,42 +211,6 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit-BOM.xls
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit.REP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for USB-RS485-unit\Generate Files\USB-RS485-unit.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
