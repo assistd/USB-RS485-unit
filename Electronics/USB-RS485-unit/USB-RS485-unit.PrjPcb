@@ -213,7 +213,7 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=Revision
-Value=1.0
+Value=2.0
 
 [Configuration1]
 Name=Sources
@@ -975,7 +975,7 @@ Type8=1
 Type9=1
 Type10=1
 Type11=1
-Type12=1
+Type12=0
 Type13=1
 Type14=1
 Type15=1
